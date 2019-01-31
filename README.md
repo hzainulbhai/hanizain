@@ -1,2 +1,2 @@
-title: Welcome to  hanizain's homepage!
+Welcome to  hanizain's homepage!
 
